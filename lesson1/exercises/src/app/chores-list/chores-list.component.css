@@ -1,0 +1,12 @@
+h3, li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:blueviolet;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}
