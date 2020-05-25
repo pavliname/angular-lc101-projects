@@ -16,3 +16,11 @@ img {
     display: block;
     margin: auto;
 }
+
+.harder {
+    color:brown;
+}
+
+.treat {
+    color:green;
+}
